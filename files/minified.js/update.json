@@ -1,0 +1,9 @@
+{
+  "packageManager": "bower",
+  "name": "minified.js",
+  "repo": "timjansen/minified.js",
+  "files": {
+    "basePath": "dist/",
+    "include": ["minified.js","minified-web.js","minified-util.js","minified-legacyie.js","minified-legacyie-web.js"]
+  }
+}
